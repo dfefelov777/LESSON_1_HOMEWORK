@@ -51,4 +51,3 @@ docker-compose up -d
 ├── tests  
 │   ├── __init__.py  
 │   └── test_log_analyzer.py  
-└── type_annotations-534944-cafdd4.ipynb  
